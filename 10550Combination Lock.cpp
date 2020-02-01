@@ -14,4 +14,5 @@ int main()
         
         scanf("%d %d %d %d", &start, &first, &second, &third);
     }
+    return 0;
 }
